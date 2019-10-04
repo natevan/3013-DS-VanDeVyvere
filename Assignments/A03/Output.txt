@@ -1,0 +1,56 @@
+
+Heap 0
+============================================
+Bushpig 1738.81
+Raccoon, common 604.974
+Hoffman's sloth 516.242
+Swallow (unidentified) 427.203
+Eleven-banded armadillo (unidentified) 398.318
+
+Heap 1
+============================================
+Caracal 648.45
+Pheasant, ring-necked 419.575
+Greylag goose 399.171
+Rattlesnake, horned 382.323
+Cockatoo, slender-billed 361.577
+
+Heap 2
+============================================
+Puma 706.463
+Paca 463.093
+Skink, african 428.437
+Knob-nosed goose 413.514
+White-throated toucan 376.519
+
+Heap 3
+============================================
+Collared lemming 772.076
+Flicker, campo 624.756
+Levaillant's barbet 408.653
+Tortoise, indian star 309.882
+African black crake 296.519
+
+Heap 4
+============================================
+Barbet, crested 1417.78
+Emerald-spotted wood dove 508.766
+Bee-eater, nubian 461.589
+Python, carpet 369.291
+Porcupine, indian 339.946
+
+Heap 5
+============================================
+Possum, ring-tailed 569.245
+Bengal vulture 437.398
+Lesser double-collared sunbird 412.893
+Antelope, four-horned 340.593
+Red-headed woodpecker 335.411
+
+Heap 6
+============================================
+Oribi 540.688
+Mountain goat 527.8
+Eastern dwarf mongoose 489.226
+Heron, gray 440.002
+Skimmer, four-spotted 437.205
